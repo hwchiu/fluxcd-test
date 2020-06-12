@@ -1,0 +1,1 @@
+{"jobID":"d16e6208-3b57-d4ba-d765-c96a0337da3c","spec":{"type":"policy","cause":{"Message":"","User":""},"spec":{"default:helmrelease/cicd-test":{"add":{},"remove":{"automated":"true"}}}},"result":null}
